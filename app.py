@@ -1,3 +1,5 @@
+# FIRST WORKING VERSION 18:55 #
+
 # Modules Imports
 from bs4 import BeautifulSoup
 import requests
